@@ -2,3 +2,4 @@
 full_name = input("enter your full name: ")
 #convert their full name to uppercase
 uppercase_name = full_name.upper()
+print(uppercase_name) #print the result
