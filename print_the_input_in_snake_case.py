@@ -1,0 +1,1 @@
+full_name = input("enter your full name: ") #ask user to input their full name
