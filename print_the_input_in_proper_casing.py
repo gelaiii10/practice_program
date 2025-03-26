@@ -2,3 +2,4 @@
 full_name = input("enter your full name in incorrect order: ")
 #convert full name in proper casing
 proper_cased_name = full_name.title()
+print(proper_cased_name) #print the proper cased name
