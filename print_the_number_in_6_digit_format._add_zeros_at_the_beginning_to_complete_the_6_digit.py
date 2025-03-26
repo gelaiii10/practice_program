@@ -4,3 +4,4 @@ num = int(input("enter a number between 0 and 1000: "))
 if 0 <= num <= 1000:
     #format the number to 6 digits with leading zeroes
     formatted_number = f"{num:06}"
+    print(formatted_number) #print the result
